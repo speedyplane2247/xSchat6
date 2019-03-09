@@ -1,10 +1,10 @@
 # List of versions
-Here's a cool little list of versions:
+Here's a cool little list of versions. These are ordered by date, and I started using the 1.x architechture again, but the 1.0.x & 1.1.x are the latest.
 
 ## v0.9.0
-Simple plain-text with header parsing. (1)
+Simple plain-text with header parsing.
 ## v1.0.0
-Simple base64 encoding. (2)
+Simple base64 encoding.
 ## v2.0.0
 ## v2.1.0
 ## v3.1.0
